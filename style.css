@@ -1,0 +1,47 @@
+div {
+    display: block;
+}
+body {
+    background: #FFFFFF;
+    margin: 0;
+}
+body {
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    font-size: 81.25%;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+
+.list-inline {
+    text-align: right;
+    list-style: outside none none;
+}
+.list-inline a{
+    text-decoration: none;
+    color:rgba(0,0,0,.87);
+}
+
+.list-header{
+    padding: 10px;
+    width: 20px;
+}
+.second-list-header{
+    padding: 20px;
+}
+.list-header:hover{
+    text-decoration: underline;
+}
+.second-list-header:hover {
+    background-color: rgb(206, 200, 193);
+    border-radius: 60px;
+}
+
+ul {
+    padding: 20px;
+ }
+ li {
+    display: inline-block;
+    width: 40px 40px;
+}
